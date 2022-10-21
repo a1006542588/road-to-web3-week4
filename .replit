@@ -1,0 +1,2 @@
+run = 'npm --prefix ./hymngallery run dev'
+entrypoint = './hymngallery/pages/index.jsx'
